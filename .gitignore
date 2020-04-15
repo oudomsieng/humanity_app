@@ -1,14 +1,14 @@
-levelapps/node_modules/*
-levelapps/.expo/*
-levelapps/npm-debug.*
+node_modules/*
+.expo/*
+npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-levelapps/web-build/
-levelapps/web-report/
+web-build/
+web-report/
 
 # macOS
 .DS_Store
