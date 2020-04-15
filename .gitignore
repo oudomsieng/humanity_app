@@ -1,0 +1,14 @@
+levelapps/node_modules/*
+levelapps/.expo/*
+levelapps/npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+levelapps/web-build/
+levelapps/web-report/
+
+# macOS
+.DS_Store
