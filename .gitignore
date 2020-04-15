@@ -12,3 +12,4 @@ levelapps/web-report/
 
 # macOS
 .DS_Store
+.idea
